@@ -1,0 +1,9 @@
+# Folder dataset
+data_test/
+training_data/
+
+# Hasil testing
+hasil_testing_model/
+
+# VENV requiements
+requiements.txt
